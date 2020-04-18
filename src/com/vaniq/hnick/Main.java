@@ -38,7 +38,6 @@ public class Main extends JavaPlugin implements Listener {
         getCommand("nick").setExecutor(new nick());
         getCommand("hnick").setExecutor(new hnick());
         getCommand("nickrank").setExecutor(new nickrank());
-        getCommand("skin").setExecutor(new skin());
 
     }
 
