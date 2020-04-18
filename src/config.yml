@@ -1,0 +1,29 @@
+Ranks:
+  Prefix:
+    Default: "none"
+    Rank1: "&a[VIP]"
+    Rank2: "&a[VIP&6+&a]"
+    Rank3: "&b[MVP]"
+    Rank4: "&b[MVP&c+&b]"
+  Book-Display:
+    Default: "&7DEFAULT"
+    Rank1: "&a[VIP]"
+    Rank2: "&a[VIP&6+&a]"
+    Rank3: "&b[MVP]"
+    Rank4: "&b[MVP&c+&b]"
+  ChatColor:
+    Default: "&7"
+    Rank1: "&f"
+    Rank2: "&f"
+    Rank3: "&f"
+    Rank4: "&f"
+  NameColor:
+    Default: "&7"
+    Rank1: "&a"
+    Rank2: "&a"
+    Rank3: "&b"
+    Rank4: "&b"
+
+ChatFormat: "%prefix% %name%&f: %message%"
+
+NoPerm: "&cYou don't have permission."

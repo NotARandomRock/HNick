@@ -1,0 +1,8 @@
+name: HNick
+version: 1.0
+main: com.vaniq.hnick.Main
+commands:
+  nick:
+  hnick:
+  nickrank:
+  skin:
